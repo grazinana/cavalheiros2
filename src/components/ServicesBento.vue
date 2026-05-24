@@ -2,7 +2,7 @@
   <section id="servicos" class="services-section">
     <div class="container">
       <div class="services-grid">
-        <div class="service-card large">
+        <a href="https://wa.me/5567991237373?text=Gostaria%20de%20saber%20mais%20sobre%20Massagem%20Relaxante" target="_blank" rel="noopener noreferrer" class="service-card large">
           <div class="card-image">
             <img src="/assets/massagem.png" alt="Massagem Relaxante" />
           </div>
@@ -10,9 +10,9 @@
             <span class="card-label">MASSAGEM</span>
             <h3 class="card-title">Massagem Relaxante</h3>
           </div>
-        </div>
+        </a>
 
-        <div class="service-card vertical">
+        <a href="https://wa.me/5567991237373?text=Gostaria%20de%20saber%20mais%20sobre%20Limpeza%20de%20Pele%20Profunda" target="_blank" rel="noopener noreferrer" class="service-card vertical">
           <div class="card-image">
             <img src="/assets/pele.png" alt="Limpeza de Pele" />
           </div>
@@ -20,19 +20,19 @@
             <span class="card-label">SKIN CARE</span>
             <h3 class="card-title">Limpeza de Pele Profunda</h3>
           </div>
-        </div>
+        </a>
 
-        <div class="service-card medium">
+        <a href="https://wa.me/5567991237373?text=Gostaria%20de%20saber%20mais%20sobre%20Design" target="_blank" rel="noopener noreferrer" class="service-card medium">
           <div class="card-image">
             <img src="/assets/design-sombrancelha.png" alt="Design / Depilação" />
           </div>
           <div class="card-content">
-            <span class="card-label">DESIGN</span>
-            <h3 class="card-title">Design</h3>
+            <span class="card-label">DESIGN DE SOBRANCELHA</span>
+            <h3 class="card-title">Design de Sobrancelha</h3>
           </div>
-        </div>
+        </a>
 
-        <div class="service-card medium">
+        <a href="https://wa.me/5567991237373?text=Gostaria%20de%20saber%20mais%20sobre%20Depila%C3%A7%C3%A3o%20Masculina" target="_blank" rel="noopener noreferrer" class="service-card medium">
           <div class="card-image">
             <img src="/assets/depilacao.webp" alt="Depilação Masculina" />
           </div>
@@ -40,7 +40,7 @@
             <span class="card-label">DEPILAÇÃO</span>
             <h3 class="card-title">Depilação Masculina</h3>
           </div>
-        </div>
+        </a>
       </div>
     </div>
   </section>
@@ -68,6 +68,8 @@
   overflow: hidden;
   display: flex;
   flex-direction: column;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 .card-image {
