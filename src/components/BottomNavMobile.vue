@@ -1,6 +1,6 @@
 <template>
   <nav class="bottom-nav">
-    <a href="https://wa.me/5567991043906" target="_blank" class="nav-btn">
+    <a href="https://wa.me/5567991237373" target="_blank" class="nav-btn">
       <span class="material-symbols-outlined">chat</span>
       <span class="nav-text">WHATSAPP</span>
     </a>

@@ -136,7 +136,7 @@ Cavalheiros | Estética Masculina & SPA
 🕒 Horário de Funcionamento:
 
 Segunda a Sexta: 08h às 18h | Sábados: 08h às 17h
-📞 Contato: [ (67) 99104-3906 ]
+📞 Contato: [ (67) 99123-7373 ]
 Redes Sociais: [Ícones SVG Instagram e LinkedIn]
 © 2026 Cavalheiros SPA. Todos os direitos reservados.
 Desenvolvido por DS Desenvolvimento
